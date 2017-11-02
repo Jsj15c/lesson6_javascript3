@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 2, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Justyce Jackson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I learned how to add different bits of code to finish updating a photo gallery.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jsj15c.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned what a node is and how to create img and fig nodes.)
+2. (I learned how the populateFigures() function changes the src attribute values to img elements.)
+3. (I learned how to attach nodes.)
